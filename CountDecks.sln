@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountDecks", "CountDecks\CountDecks.csproj", "{22FFB362-710F-4000-99D1-60C9D58B60CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22FFB362-710F-4000-99D1-60C9D58B60CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FFB362-710F-4000-99D1-60C9D58B60CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FFB362-710F-4000-99D1-60C9D58B60CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FFB362-710F-4000-99D1-60C9D58B60CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EDD0686-E8FE-452D-86EC-77F1EF224C94}
+	EndGlobalSection
+EndGlobal
