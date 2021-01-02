@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CountDecks
 {
-    class Deck
+    public class Deck
     {
         private string _suits;
         private string _colors;
